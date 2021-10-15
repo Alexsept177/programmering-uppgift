@@ -1,0 +1,16 @@
+E:\Ny mapp (2)\bin\Debug\net5.0\Ny mapp (2).exe
+E:\Ny mapp (2)\bin\Debug\net5.0\Ny mapp (2).deps.json
+E:\Ny mapp (2)\bin\Debug\net5.0\Ny mapp (2).runtimeconfig.json
+E:\Ny mapp (2)\bin\Debug\net5.0\Ny mapp (2).runtimeconfig.dev.json
+E:\Ny mapp (2)\bin\Debug\net5.0\Ny mapp (2).dll
+E:\Ny mapp (2)\bin\Debug\net5.0\ref\Ny mapp (2).dll
+E:\Ny mapp (2)\bin\Debug\net5.0\Ny mapp (2).pdb
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).csproj.AssemblyReference.cache
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).GeneratedMSBuildEditorConfig.editorconfig
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).AssemblyInfoInputs.cache
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).AssemblyInfo.cs
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).csproj.CoreCompileInputs.cache
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).dll
+E:\Ny mapp (2)\obj\Debug\net5.0\ref\Ny mapp (2).dll
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).pdb
+E:\Ny mapp (2)\obj\Debug\net5.0\Ny mapp (2).genruntimeconfig.cache
